@@ -1,6 +1,6 @@
 # nand2tetris Project <br>
 
-It is inspired from the Modern Computer from First Principles: From NAND to Tetris Project Centered Course on Coursera
+It is inspired from the Modern Computer from First Principles: From NAND to Tetris Project Centered Course on Coursera<br>
 Link To the website:<br>
 [https://www.nand2tetris.org](https://www.nand2tetris.org)
 
