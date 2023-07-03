@@ -1,0 +1,2 @@
+In this folder, all the basic building bloack required for generating combinational circuits are created.
+Starting from NAND logic gates, i built and, or, not gate and then using these built all other gates
