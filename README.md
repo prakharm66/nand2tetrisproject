@@ -11,4 +11,4 @@ Link To the Coursea Course<br>
 To run the simulations on your machine, follow this website:<br>
 [https://www.nand2tetris.org/software](https://www.nand2tetris.org/software)
 
-The Project folder mentioned in this website along with completed hdl and asm files is provided in this repository.
+The Project folder mentioned in this website with completed hdl and asm files is provided in this repository.
